@@ -12,15 +12,12 @@ But now if we are a **recrutor** of a compagny I'm open to work with PHP in any 
 I'm interested by the entire stack of Web Développement (SQL->PHP->JS->CSS/HTML) and I'm work with these languages as soon an idea travel my mind.
 
 For my differents School projects we can see all in **_School_** 📁<br>
-The others projects are public 📁(
+The others projects are public 📁
   - **HTMLBuilder** 
-  - **(soon)** :
-    - **Scrapper**
-    - **RecipesWebsite**
-    - **PriceComparator**
-    - ...<br>
+  - **Scrapper**
+  - **RecipesWebsite**
+  - **PriceComparator**
 
-)
 
 
 <!--

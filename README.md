@@ -17,6 +17,7 @@ The others projects are public 📁
   - **Scrapper**
   - **RecipesWebsite**
   - **PriceComparator**
+  - **EarthStories**
 
 
 
